@@ -13,6 +13,7 @@ class Assets extends AssetBundle
         'except' => [
             'php/',
             'files/',
+            'images/',
         ]
 	];
 
